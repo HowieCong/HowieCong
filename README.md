@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Howie Cong 何志聪
+- 👋 I’m Howie Cong 何志聪
 - Front-end Developer | MStudio Beatmaker | Student
 - Base in Shanghai | Live in Guangzhou
 - Social Media=> https://bonjour.bio/zh/howiecong
