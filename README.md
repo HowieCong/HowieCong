@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Howie+COng)](https://git.io/typing-svg)
 - 👋 I’m Howie Cong 何志聪
 - Front-end Developer | MStudio Beatmaker | Student
 - Base in Shanghai | Live in Guangzhou
