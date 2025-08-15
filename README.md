@@ -12,6 +12,15 @@
   <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue">
   </a>
+  <a href="https://babeljs.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel">
+  </a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  </a>
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   </a>
