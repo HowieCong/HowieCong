@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+I'm+HowieCong;&size=28&width=600&height=80&color=4A90E2&pause=2000&speed=120)](https://git.io/typing-svg)
 
 ### 🚀 About Me
-- 👦 03 | Full Stack Developer | Base in Guangzhou
+- 👦 03 | Full Stack Developer | Focus in AI Coding Recently
 - 🌱 Work Experience: Bilibili → XPeng
+- 📮 Email：howiecong@163.com
 
 ### 🛠️ Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 1rem 0;">
