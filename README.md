@@ -3,7 +3,6 @@
 ### 🚀 About Me
 - 👦 03 | Full Stack Developer | Focus in AI Coding Recently
 - 🌱 Work Experience: Bilibili → XPeng
-- 📮 Email：howiecong@163.com
 
 ### 🛠️ Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 1rem 0;">
@@ -43,7 +42,9 @@
 </div>
 
 ### 📫 Contact & Social
-| 社交媒体       | 开发社区           |
+| 📮 Social Media | 👨‍💻 Dev Community |
 |----------------|--------------------|
-| Email: [howiecong@163.com](mailto:howiecong@163.com) | GitHub: [@HowieCong](https://github.com/HowieCong) |
-| Redbook小红书: [@HowieCong](https://www.xiaohongshu.com/user/profile/63113bee000000001200c930) | Juejin稀土掘金: [@HowieCong](https://juejin.cn/user/165405260262244) |
+| Email: howiecong@163.com| GitHub: [@HowieCong](https://github.com/HowieCong) |
+| Instagram: [@howiecong_828](https://www.instagram.com/howiecong_828)| Juejin稀土掘金: [@HowieCong](https://juejin.cn/user/165405260262244) |
+| Redbook小红书: [@HowieCong](https://www.xiaohongshu.com/user/profile/63113bee000000001200c930) | Segmentfault思否社区: [@HowieCong_Blog](https://segmentfault.com/blog/howiecong) |
+
