@@ -42,9 +42,9 @@
 </div>
 
 ### 📫 Contact & Social
-| 📮 Social Media | 👨‍💻 Dev Community |
-|----------------|--------------------|
-| Email: howiecong@163.com| GitHub: [@HowieCong](https://github.com/HowieCong) |
-| Instagram: [@howiecong_828](https://www.instagram.com/howiecong_828)| Juejin稀土掘金: [@HowieCong](https://juejin.cn/user/165405260262244) |
-| Redbook小红书: [@HowieCong](https://www.xiaohongshu.com/user/profile/63113bee000000001200c930) | Segmentfault思否社区: [@HowieCong_Blog](https://segmentfault.com/blog/howiecong) |
+| 📮 Social Media          | 👨‍💻 Dev Community                | 💻 My Projects                          |
+|--------------------------|---------------------------------|-----------------------------------------|
+| Email: howiecong@163.com | GitHub: [@HowieCong](https://github.com/HowieCong) | Soul Idea: [Khalil's Soulscape](https://github.com/HowieCong/Khalils_Soulscape)|
+| Instagram: [@howiecong_828](https://www.instagram.com/howiecong_828) | Juejin稀土掘金: [@HowieCong](https://juejin.cn/user/165405260262244) | Some Learning Repos: [Learn-Koa](https://github.com/HowieCong/Learn-Koa)，[Learn-Babel](https://github.com/HowieCong/Learn-Babel) |
+| Redbook小红书: [@HowieCong](https://www.xiaohongshu.com/user/profile/63113bee000000001200c930) | Segmentfault思否社区: [@HowieCong_Blog](https://segmentfault.com/blog/howiecong) | Paper: [Research on Economic Data Collection and Analysis Platform Based on Cloud Computing and Internet of Things Technology ](https://dl.acm.org/doi/10.1145/3648050.3648081#artseq-00003) |
 
