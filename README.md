@@ -41,3 +41,10 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   </a>
 </div>
+
+### 📫 Contact & Social
+### 📫 Contact & Social
+| 社交媒体       | 开发社区           |
+|----------------|--------------------|
+| Email: [howiecong@163.com](mailto:howiecong@163.com) | GitHub: [@HowieCong](https://github.com/HowieCong) |
+| Redbook小红书: [@HowieCong](https://www.xiaohongshu.com/user/profile/63113bee000000001200c930) | Juejin稀土掘金: [@HowieCong](https://juejin.cn/user/165405260262244)) |
