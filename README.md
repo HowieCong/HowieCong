@@ -43,8 +43,7 @@
 </div>
 
 ### 📫 Contact & Social
-### 📫 Contact & Social
 | 社交媒体       | 开发社区           |
 |----------------|--------------------|
 | Email: [howiecong@163.com](mailto:howiecong@163.com) | GitHub: [@HowieCong](https://github.com/HowieCong) |
-| Redbook小红书: [@HowieCong](https://www.xiaohongshu.com/user/profile/63113bee000000001200c930) | Juejin稀土掘金: [@HowieCong](https://juejin.cn/user/165405260262244)) |
+| Redbook小红书: [@HowieCong](https://www.xiaohongshu.com/user/profile/63113bee000000001200c930) | Juejin稀土掘金: [@HowieCong](https://juejin.cn/user/165405260262244) |
