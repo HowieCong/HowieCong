@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 👦 03 | Full Stack Developer | Focus in AI Coding Recently
-- 🌱 Work Experience: Bilibili → XPeng
+- Work Experience: [Bilibili](https://www.bilibili.com) → [XPeng](https://www.xiaopeng.com)
 
 ### 🛠️ Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 1rem 0;">
