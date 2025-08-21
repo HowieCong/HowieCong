@@ -39,6 +39,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   </a>
+  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Data%20Structure-007ACC?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Structure">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Algorithm-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" alt="Algorithm">
+  </a>
 </div>
 
 ### 📫 Contact & Social
