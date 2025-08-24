@@ -51,14 +51,6 @@
   <a href="https://babeljs.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel">
   </a>
-  
-  <!-- Computer Science -->
-  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Data%20Structure-007ACC?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Structure">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Algorithm-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" alt="Algorithm">
-  </a>
 </div>
 
 ### 📫 Contact & Social
